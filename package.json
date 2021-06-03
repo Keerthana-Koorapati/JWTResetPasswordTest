@@ -1,0 +1,16 @@
+{
+  "name": "passwordreset",
+  "version": "1.0.0",
+  "description": "Understanding JWT password reset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keerthana",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6"
+  }
+}
